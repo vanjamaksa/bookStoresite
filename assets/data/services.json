@@ -1,0 +1,17 @@
+[
+    {
+        "class":"book",
+        "title":"Wide Book Collection",
+        "text":"Explore books from different genres, authors and publishers, all in one place."
+    },
+    {
+        "class":"tags",
+        "title":"Best deals and offers",
+        "text":"Find books at discounted prices and enjoy special offers on selected titles."
+    },
+    {
+        "class":"cart-shopping",
+        "title":"Easy Online Shopping",
+        "text":" Quickly add books to your cart and enjoy a smooth and secure shopping experience."
+    }
+]

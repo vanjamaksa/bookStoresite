@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Fantasy" },
+  { "id": 2, "name": "Romance" },
+  { "id": 3, "name": "Thriller" },
+  { "id": 4, "name": "Self-development" },
+  { "id": 5, "name": "Classic" },
+  { "id": 6, "name": "Mystery" },
+  { "id": 7, "name": "Science Fiction" }
+]

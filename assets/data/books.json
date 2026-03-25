@@ -1,0 +1,381 @@
+[
+{
+"id":1,
+"title":"Harry Potter and the Sorcerer's Stone",
+"authorId":1,
+"genreIds":[1],
+"publication":{
+    "year":1997,
+    "language":"English",
+    "pages":309},
+"pricing":{
+    "price":1400,
+    "discount":10},
+"stock":true,
+"img":"assets/img/booksCovers/HarryPotter1.jpg",
+"flagIds":[1,2],
+"description":{"short":"Harry discovers he is a wizard and begins his journey at Hogwarts."},
+"rating":4.7
+},
+
+{
+"id":2,
+"title":"Harry Potter and the Chamber of Secrets",
+"authorId":1,
+"genreIds":[1],
+"publication":{
+    "year":1998,
+    "language":"English",
+    "pages":341},
+"pricing":{
+    "price":1500,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/HarryPotter2.jpg",
+"flagIds":[2],
+"description":{"short":"Harry returns to Hogwarts and faces a mysterious danger."},
+"rating":3.2
+},
+
+{
+"id":3,
+"title":"Harry Potter and the Prisoner of Azkaban",
+"authorId":1,
+"genreIds":[1],
+"publication":{
+    "year":1999,
+    "language":"English",
+    "pages":435},
+"pricing":{
+    "price":1600,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/HarryPotter3.jpg",
+"flagIds":[2,3],
+"description":{"short":"Harry learns the truth about Sirius Black."},
+"rating":3.6
+},
+
+{
+"id":4,
+"title":"The Hobbit",
+"authorId":7,
+"genreIds":[1],
+"publication":{
+    "year":1937,
+    "language":"English",
+    "pages":310},
+"pricing":{
+    "price":1300,
+    "discount":10},
+"stock":true,
+"img":"assets/img/booksCovers/hobit.jpg",
+"flagIds":[],
+"description":{"short":"Bilbo Baggins joins a quest to reclaim a lost dwarf kingdom."},
+"rating":2.8
+},
+
+{
+"id":5,
+"title":"The Fellowship of the Ring",
+"authorId":7,
+"genreIds":[1],
+"publication":{
+    "year":1954,
+    "language":"English",
+    "pages":423},
+"pricing":{
+    "price":1700,
+    "discount":20},
+"stock":true,
+"img":"assets/img/booksCovers/Hobbit2.jpg",
+"flagIds":[2],
+"description":{"short":"The first part of the epic journey to destroy the One Ring."},
+"rating":4.7
+},
+
+{
+"id":6,
+"title":"Pride and Prejudice",
+"authorId":2,
+"genreIds":[2,5],
+"publication":{
+    "year":1813,
+    "language":"English",
+    "pages":432},
+"pricing":{
+    "price":900,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/prideAndPrejudice.jpg",
+"flagIds":[1],
+"description":{"short":"A timeless romance novel about Elizabeth Bennet and Mr. Darcy."},
+"rating":1.7
+},
+
+{
+"id":7,
+"title":"Sense and Sensibility",
+"authorId":2,
+"genreIds":[2,5],
+"publication":{
+    "year":1811,
+    "language":"English",
+    "pages":352},
+"pricing":{
+    "price":850,
+    "discount":10},
+"stock":true,
+"img":"assets/img/booksCovers/senseAndSensibility.jpg",
+"flagIds":[1],
+"description":{"short":"A story of love, heartbreak and emotional growth."},
+"rating":4.7
+},
+
+{
+"id":8,
+"title":"It Ends With Us",
+"authorId":6,
+"genreIds":[2],
+"publication":{
+    "year":2016,
+    "language":"English",
+    "pages":384},
+"pricing":{
+    "price":1100,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/itEndsWithUs.jpg",
+"flagIds":[2,3],
+"description":{"short":"A powerful story about love, relationships and difficult choices."},
+"rating":2.5
+},
+
+{
+"id":9,
+"title":"Verity",
+"authorId":6,
+"genreIds":[3],
+"publication":{
+    "year":2018,
+    "language":"English",
+    "pages":336},
+"pricing":{
+    "price":1200,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/verity.jpg",
+"flagIds":[2],
+"description":{"short":"A psychological thriller with shocking twists."},
+"rating":4.7
+},
+
+{
+"id":10,
+"title":"Atomic Habits",
+"authorId":3,
+"genreIds":[4],
+"publication":{
+    "year":2018,
+    "language":"English",
+    "pages":320},
+"pricing":{
+    "price":1200,
+    "discount":20},
+"stock":true,
+"img":"assets/img/booksCovers/atomicHabits.jpg",
+"flagIds":[1,2],
+"description":{"short":"A practical guide to building better habits."},
+"rating":4.7
+},
+
+{
+"id":11,
+"title":"The Power of Habit",
+"authorId":3,
+"genreIds":[4],
+"publication":{
+    "year":2012,
+    "language":"English",
+    "pages":371},
+"pricing":{
+    "price":1250,
+    "discount":30},
+"stock":true,
+"img":"assets/img/booksCovers/powerOfHabit.jpg",
+"flagIds":[3],
+"description":{"short":"Explores the science behind habits and why they matter."},
+"rating":2.8
+},
+
+{
+"id":12,
+"title":"1984",
+"authorId":4,
+"genreIds":[7,5],
+"publication":{
+    "year":1949,
+    "language":"English",
+    "pages":328},
+"pricing":{
+    "price":1000,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/1984.jpg",
+"flagIds":[2],
+"description":{"short":"A dystopian novel about totalitarian surveillance."},
+"rating":4.7
+},
+
+{
+"id":13,
+"title":"Animal Farm",
+"authorId":4,
+"genreIds":[5],
+"publication":{
+    "year":1945,
+    "language":"English",
+    "pages":112},
+"pricing":{
+    "price":800,
+    "discount":10},
+"stock":true,
+"img":"assets/img/booksCovers/animalFarm.jpg",
+"flagIds":[1],
+"description":{"short":"A political allegory told through farm animals."},
+"rating":4.7
+},
+
+{
+"id":14,
+"title":"The Da Vinci Code",
+"authorId":5,
+"genreIds":[3,6],
+"publication":{
+    "year":2003,
+    "language":"English",
+    "pages":489},
+"pricing":{
+    "price":1300,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/daVinciCode.jpg",
+"flagIds":[2],
+"description":{"short":"Robert Langdon uncovers secrets hidden in art and history."},
+"rating":3.8
+},
+
+{
+"id":15,
+"title":"Angels and Demons",
+"authorId":5,
+"genreIds":[3,6],
+"publication":{
+    "year":2000,
+    "language":"English",
+    "pages":616},
+"pricing":{
+    "price":1400,
+    "discount":30},
+"stock":true,
+"img":"assets/img/booksCovers/angelsAndDemons.jpg",
+"flagIds":[],
+"description":{"short":"A thrilling race against time inside the Vatican."},
+"rating":4.7
+},
+
+{
+"id":16,
+"title":"Murder on the Orient Express",
+"authorId":8,
+"genreIds":[6],
+"publication":{
+    "year":1934,
+    "language":"English",
+    "pages":256},
+"pricing":{
+    "price":950,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/murderOnTheOrienteExpress.jpg",
+"flagIds":[2],
+"description":{"short":"Hercule Poirot solves a murder on a luxury train."},
+"rating":2.2
+},
+
+{
+"id":17,
+"title":"And Then There Were None",
+"authorId":8,
+"genreIds":[6],
+"publication":{
+    "year":1939,
+    "language":"English",
+    "pages":272},
+"pricing":{
+    "price":1000,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/andThenThereWereNone.jpg",
+"flagIds":[2],
+"description":{"short":"Ten strangers are trapped on an island with a killer."},
+"rating":4.7
+},
+
+{
+"id":18,
+"title":"Dune",
+"authorId":9,
+"genreIds":[7],
+"publication":{
+    "year":1965,
+    "language":"English",
+    "pages":412},
+"pricing":{
+    "price":1600,
+    "discount":30},
+"stock":true,
+"img":"assets/img/booksCovers/dune.jpg",
+"flagIds":[1,2],
+"description":{"short":"A science fiction epic set on the desert planet Arrakis."},
+"rating":3.7
+},
+
+{
+"id":19,
+"title":"Dune Messiah",
+"authorId":9,
+"genreIds":[7],
+"publication":{
+    "year":1969,
+    "language":"English",
+    "pages":256},
+"pricing":{
+    "price":1500,
+    "discount":20},
+"stock":true,
+"img":"assets/img/booksCovers/duneMessiah.jpg",
+"flagIds":[1],
+"description":{"short":"The continuation of Paul's journey after Dune."},
+"rating":4.7
+},
+
+{
+"id":20,
+"title":"Educated",
+"authorId":10,
+"genreIds":[4],
+"publication":{
+    "year":2018,
+    "language":"English",
+    "pages":334},
+"pricing":{
+    "price":1150,
+    "discount":null},
+"stock":true,
+"img":"assets/img/booksCovers/educated.jpg",
+"flagIds":[1],
+"description":{"short":"A memoir about the power of education."},
+"rating":1.7
+}
+]

@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "J.K. Rowling" },
+  { "id": 2, "name": "Jane Austen" },
+  { "id": 3, "name": "James Clear" },
+  { "id": 4, "name": "George Orwell" },
+  { "id": 5, "name": "Dan Brown" },
+  { "id": 6, "name": "Colleen Hoover" },
+  { "id": 7, "name": "J.R.R. Tolkien" },
+  { "id": 8, "name": "Agatha Christie" },
+  { "id": 9, "name": "Frank Herbert" },
+  { "id": 10, "name": "Tara Westover" }
+]

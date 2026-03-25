@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Emma Johnson",
+    "role": "Book lover",
+    "image": "assets/img/reviews/review1.jpg",
+    "rating": 5,
+    "comment": "Amazing bookstore with a wide selection of titles. The website is easy to use and I quickly found the books I wanted."
+  },
+  {
+    "id": 2,
+    "name": "Daniel Carter",
+    "role": "Regular customer",
+    "image": "assets/img/reviews/review2.avif",
+    "rating": 4,
+    "comment": "Great prices and a very clean design. I especially liked the discount offers and how simple the shopping process was."
+  },
+  {
+    "id": 3,
+    "name": "Sophia Miller",
+    "role": "Student",
+    "image": "assets/img/reviews/review3.webp",
+    "rating": 5,
+    "comment": "A beautiful online bookstore experience. The categories are clear, the books are well presented, and everything feels professional."
+  }
+]

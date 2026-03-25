@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Featured" },
+  { "id": 2, "name": "Bestseller" },
+  { "id": 3, "name": "New" }
+]
